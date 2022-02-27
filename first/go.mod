@@ -1,4 +1,4 @@
-module github.com/devRobotAR/crypto
+module github.com/devRobotAR/crypto/first
 
 go 1.17
 
