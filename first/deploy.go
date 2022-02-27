@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/.../.../api" // this would be your generated smart contract bindings
+	"github.com/devRobotAR/crypto/first/api" // this would be your generated smart contract bindings
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/crypto"
